@@ -1,0 +1,28 @@
+name: Lance Johnston
+favicon: null
+layout_spectrum: 0.10918365977704525
+typography_spectrum: 0.0584887620061636
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7622727644629776
+  lightness: 0.9406817788258195
+  saturation: 0.1453877971507609
+  rhythmicContrast: 0.8959512284491211
+purpose: []
