@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T00:00:02.960Z'
-dateModified: '2016-01-10T00:00:00.298Z'
+datePublished: '2016-01-10T05:48:37.613Z'
+dateModified: '2016-01-10T05:48:33.753Z'
 author: []
 related: []
 app_links:
@@ -20,7 +20,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: '@johnston * Instagram '
+title: Instagram
 sourcePath: _posts/2016-01-09-johnston-instagram-photos-and-videos.md
 published: true
 authors: []
@@ -33,4 +33,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![@johnston * Instagram photos and videos](https://s3-us-west-2.amazonaws.com/the-grid-img/p/986f14b8247559995782c46772d59859313ab49c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb2de933-2951-4e95-b4f4-990dbc475e4c.jpg)
