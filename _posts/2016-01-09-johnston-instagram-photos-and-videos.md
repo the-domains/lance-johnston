@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T23:57:06.724Z'
-dateModified: '2016-01-09T23:56:17.192Z'
+datePublished: '2016-01-10T00:00:02.960Z'
+dateModified: '2016-01-10T00:00:00.298Z'
 author: []
 related: []
 app_links:
@@ -33,4 +33,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![&commat;johnston &midast; Instagram photos and videos](https://scontent.cdninstagram.com/hphotos-prn/t51.2885-19/10707207_306447379542424_716744124_a.jpg)
+![@johnston * Instagram photos and videos](https://s3-us-west-2.amazonaws.com/the-grid-img/p/986f14b8247559995782c46772d59859313ab49c.jpg)
