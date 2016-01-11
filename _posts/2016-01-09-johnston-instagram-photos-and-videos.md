@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T23:56:59.353Z'
-dateModified: '2016-01-11T23:56:56.492Z'
+datePublished: '2016-01-11T23:59:17.733Z'
+dateModified: '2016-01-11T23:59:12.788Z'
 author: []
 related: []
 app_links:
@@ -33,6 +33,6 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b710e98802a745751b0ddafaef2255793c829ef.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9948dde40b25ec20037652899b521c7f4fba73a.jpg)
 
 Instagram
