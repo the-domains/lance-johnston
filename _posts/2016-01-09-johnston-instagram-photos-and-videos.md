@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T23:19:26.383Z'
-dateModified: '2016-01-11T23:19:21.825Z'
+datePublished: '2016-01-11T23:20:50.560Z'
+dateModified: '2016-01-11T23:20:47.751Z'
 author: []
 related: []
 app_links:
@@ -33,4 +33,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af33b3fe-ca80-440c-9fff-8be623392cf8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/520a94e37e21825543b594446edfa303301b661d.jpg)
