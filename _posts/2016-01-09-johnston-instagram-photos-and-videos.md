@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/johnston/'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-11T23:32:56.536Z'
-dateModified: '2016-01-11T23:32:51.968Z'
+datePublished: '2016-01-11T23:42:26.853Z'
+dateModified: '2016-01-11T23:42:24.970Z'
 author: []
 related: []
 app_links:
@@ -28,11 +29,8 @@ publisher:
   domain: www.instagram.com
   url: 'https://www.instagram.com'
   favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-url: instagram/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8fb0bed8af21880b5a0a4801528c96beb5d3565.jpg)
-
-Insatagram
