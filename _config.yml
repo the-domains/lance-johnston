@@ -1,6 +1,6 @@
 name: Lance Johnston
 favicon: null
-layout_spectrum: 0.02555
+layout_spectrum: 0
 typography_spectrum: 0.36449
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#aaaaaa'
     - '#616161'
     - '#8d8d8d'
-  brandStrength: 0.875
-  lightness: 0.9375
+  brandStrength: 0.9375
+  lightness: 0.75
   saturation: 0.75
   rhythmicContrast: 0.75
 purpose: []
